@@ -1,0 +1,1 @@
+const fetchApi = new FetchApi();
